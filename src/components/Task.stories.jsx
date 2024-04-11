@@ -2,7 +2,7 @@ import Task from './Task';
 
 export default {
   component: Task,
-  title: 'Task',
+  title: 'Task component',
   tags: ['autodocs'],
 };
 
