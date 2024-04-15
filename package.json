@@ -34,5 +34,9 @@
     "chromatic": "^11.3.0",
     "prop-types": "^15.8.1",
     "storybook": "^8.0.8"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.0",
+    "gsap": "^3.12.5"
   }
 }
